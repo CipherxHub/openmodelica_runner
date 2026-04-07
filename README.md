@@ -9,23 +9,23 @@ in real-time, and enforces the constraint **0 ≤ startTime < stopTime < 5**.
 ## Screenshot
 
 ```
-┌──────────────────────────────────────────────────────────────────────────┐
-│  ⚙  OpenModelica Simulation Runner                                       │
-├──────────────────────────────────────────────────────────────────────────┤
-│  ┌ Simulation Parameters ────────────────────────────────────────────┐   │
-│  │  Application (Executable)                                          │   │
-│  │  [ /path/to/TwoConnectedTanks                         ] [Browse]  │   │
-│  │  Start Time (0 ≤ start < stop < 5)  Stop Time                     │   │
-│  │  [ 0 ▲▼ ]                           [ 3 ▲▼ ]                      │   │
-│  │  [▶ Run Simulation]   [Clear Output]                               │   │
-│  └────────────────────────────────────────────────────────────────────┘   │
+┌───────────────────────────────────────────────────────────────────────────┐
+│  ⚙  OpenModelica Simulation Runner                                        
+├───────────────────────────────────────────────────────────────────────────┤
+│  ┌ Simulation Parameters ────────────────────────────────────────────┐    │
+│  │  Application (Executable)                                         │    │
+│  │  [ /path/to/TwoConnectedTanks                         ] [Browse]  │    │
+│  │  Start Time (0 ≤ start < stop < 5)  Stop Time                     │    │
+│  │  [ 0 ▲▼ ]                           [ 3 ▲▼ ]                      │    │
+│  │  [▶ Run Simulation]   [Clear Output]                             
+│  └───────────────────────────────────────────────────────────────────┘    │
 │  ┌ Simulation Output ─────────────────────────────────────────────────┐   │
-│  │  $ /path/to/TwoConnectedTanks -override startTime=0,stopTime=3    │   │
+│  │  $ /path/to/TwoConnectedTanks -override startTime=0,stopTime=3     │   │
 │  │  LOG_SUCCESS       | info    | The initialization finished …       │   │
 │  │  [SUCCESS] Simulation completed (exit 0).                          │   │
 │  └────────────────────────────────────────────────────────────────────┘   │
-│  Simulation finished successfully.                                         │
-└──────────────────────────────────────────────────────────────────────────┘
+│  Simulation finished successfully.                                        │
+└───────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -191,4 +191,4 @@ launched if validation fails.
 
 ## License
 
-MIT © 2024 CipherxHub / Himalaya Yadav
+MIT © 2026 CipherxHub 
