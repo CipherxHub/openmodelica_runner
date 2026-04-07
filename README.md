@@ -78,7 +78,7 @@ openmodelica_runner/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/openmodelica-simulation-runner.git
+git clone https://github.com/cipherxhub/openmodelica-simulation-runner.git
 cd openmodelica-simulation-runner
 ```
 
