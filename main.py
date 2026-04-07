@@ -4,7 +4,7 @@ OpenModelica Simulation Runner
 A PyQt6 desktop application to launch OpenModelica compiled executables
 with configurable start and stop time parameters.
 
-Author: CipherxHub / Himalaya Yadav
+Author: CipherxHub
 License: MIT
 """
 
